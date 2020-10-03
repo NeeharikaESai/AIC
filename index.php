@@ -56,7 +56,8 @@
 
             <ul class="navbar-nav ml">
               <li class="nav-item cta-btn">
-                <a class="nav-link" href="./login.html">Login / Register</a>
+                <a class="nav-link" href="./login.php">Login / Register</a>
+                <a class="nav-link" href="./logout.php">Logout</a>
               </li>
 			</ul>
 			
